@@ -1,0 +1,16 @@
+fieldset,
+p {
+  margin: 0;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
